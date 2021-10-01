@@ -1,4 +1,4 @@
-# mycaptain_AI
+# Revati Sawant
 Developed by Revati Sawant!
 I have a good grasp on python programming language.
 Using this I have worked on few ML models in MyCaptain Artificial Intelligence Workshop.
